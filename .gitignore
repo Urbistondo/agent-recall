@@ -1,0 +1,7 @@
+# generated / machine-local state (not code)
+__pycache__/
+*.pyc
+.cache.json
+names.json
+dashboard.html
+dashboard.md
